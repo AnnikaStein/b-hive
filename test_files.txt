@@ -1,0 +1,17 @@
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_0.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_10.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_11.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_13.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_14.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_16.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_17.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_18.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_19.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_1.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_2.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_3.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_4.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_6.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_7.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_8.root
+/eos/cms/store/group/phys_btag/ParT_Run3/Puppi_ttbar_test/ntuple_ttbar_semilep_puppi_122X_9.root
